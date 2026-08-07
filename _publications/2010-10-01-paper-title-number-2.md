@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+category: conferences
+permalink: /publication/2023-12-01-ceval
+excerpt: 'A multi-level, multi-discipline Chinese evaluation suite for foundation models.'
+date: 2023-12-01
+venue: 'NeurIPS 2023'
+citation: 'Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, and Junxian He. (2023). &quot;C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models.&quot; <i>NeurIPS 2023</i>.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper presents C-Eval, a multi-level and multi-discipline Chinese evaluation suite for foundation models. It was presented at NeurIPS 2023.
