@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate in the [HKUST NLP Group](https://nlp.hkust.edu.cn) at the Hong Kong University of Science and Technology (HKUST), where I am supervised by **Professor Junxian He**. I received my B.Eng. from Shanghai Jiao Tong University (SJTU) and graduated in June 2024.
+I am a first-year PhD candidate in the HKUST NLP Group at the Hong Kong University of Science and Technology (HKUST), where I am supervised by **Professor Junxian He**. I received my B.Eng. from Shanghai Jiao Tong University (SJTU) and graduated in June 2024.
 
 My research sits at the intersection of **natural language processing** and **machine learning**, and aims to make large language models more capable and more trustworthy. I am particularly interested in understanding how and why language models reason, and in making their behaviour more truthful and more interpretable.
 
@@ -23,12 +23,12 @@ My research sits at the intersection of **natural language processing** and **ma
 
 ## Research Experience
 
-**Research Intern** · [MINIMAX](https://www.minimaxi.com) · February 2025 – Present
+**Research Intern** · MINIMAX · February 2025 – Present
 
 **Research Intern** · Tencent WeChat (WXG) · June 2024 – September 2024
 * Supervisor: Zifei Shan
 
-**Research Intern** · [Shanghai AI Lab](https://www.shanghaiailab.com) · June 2023 – December 2023
+**Research Intern** · Shanghai AI Lab · June 2023 – December 2023
 * Supervisor: Prof. Yu Cheng
 
 ## Honors
