@@ -11,54 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
+* **PhD in Computer Science**, Hong Kong University of Science and Technology (HKUST) — HKUST NLP Group, 2024 – Present. Advisor: Professor Junxian He
+* **B.Eng.**, Shanghai Jiao Tong University (SJTU), 2020 – 2024. Graduated June 2024
+
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Research Intern**, MINIMAX, February 2025 – Present
+* **Research Intern**, Tencent WeChat (WXG), June 2024 – September 2024. Supervisor: Zifei Shan
+* **Research Intern**, Shanghai AI Lab, June 2023 – December 2023. Supervisor: Prof. Yu Cheng
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+Honors
+======
+
+* Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* **Research areas:** natural language processing, machine learning, LLM reasoning and reinforcement learning, vision-language model hallucination, LLM truthfulness and interpretability
+* **Methods:** large-scale data synthesis and curation, foundation model training and evaluation, representation analysis and interpretability, reinforcement learning for language models
+* **Evaluation:** design and construction of benchmarks and evaluation suites for foundation models
 
 Publications
 ======
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
