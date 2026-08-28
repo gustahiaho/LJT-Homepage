@@ -8,12 +8,11 @@ The site is built with the [Academic Pages template](https://github.com/academic
 | --- | --- |
 | `_config.yml` | Site-wide settings and the author/sidebar information |
 | `_pages/about.md` | The front page: bio, education, research experience, honors, skills, publications and contact |
-| `_pages/cv.md` | Curriculum vitae (generated from the `site.publications` collection) |
+| `_pages/cv.md` | Curriculum vitae, built from the `site.publications` collection |
 | `_pages/publications.html` | Publication archive |
 | `_publications/*.md` | One page per publication |
 | `_data/navigation.yml` | Links shown in the header |
 | `_data/authors.yml` | Author profiles used by the author sidebar |
-| `_data/cv.json` | Machine-readable CV data (used by the JSON CV page) |
 
 ## Running locally
 
