@@ -43,12 +43,12 @@ My research sits at the intersection of **natural language processing** and **ma
 
 ## Publications
 
-* [SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond](/publication/synlogic/) · <i>arXiv preprint</i>, 2025 · First author
-* [On the Perception Bottleneck of VLMs for Chart Understanding](/publication/perception-bottleneck-of-vlms-for-chart-understanding/) · <i>arXiv preprint</i>, 2025 · First author
-* [On the Universal Truthfulness Hyperplane Inside LLMs](/publication/universal-truthfulness-hyperplane-inside-llms/) · <i>EMNLP 2024</i> · First author
-* [In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation](/publication/in-context-sharpness-as-alerts/) · <i>ICML 2024</i>
-* [C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models](/publication/ceval-multi-level-multi-discipline-chinese-evaluation-suite/) · <i>NeurIPS 2023</i>
-* [Composing Parameter-Efficient Modules with Arithmetic Operations](/publication/composing-parameter-efficient-modules-with-arithmetic-operations/) · <i>NeurIPS 2023</i>
+* [SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond](/publication/synlogic) · <i>arXiv preprint</i>, 2025 · First author
+* [On the Perception Bottleneck of VLMs for Chart Understanding](/publication/perception-bottleneck-of-vlms-for-chart-understanding) · <i>arXiv preprint</i>, 2025 · First author
+* [On the Universal Truthfulness Hyperplane Inside LLMs](/publication/universal-truthfulness-hyperplane-inside-llms) · <i>EMNLP 2024</i> · First author
+* [In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation](/publication/in-context-sharpness-as-alerts) · <i>ICML 2024</i>
+* [C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models](/publication/ceval-multi-level-multi-discipline-chinese-evaluation-suite) · <i>NeurIPS 2023</i>
+* [Composing Parameter-Efficient Modules with Arithmetic Operations](/publication/composing-parameter-efficient-modules-with-arithmetic-operations) · <i>NeurIPS 2023</i>
 
 A complete list of my publications is also available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
 
